@@ -20,3 +20,7 @@ ii.A participent can transfer ether more than one time but the transfer ether mu
 iii.Manager will have full control over the lottery.
 iv.The contract will be reset once a round is completed.
 
+
+Random number:
+
+To select winner and generate random number keccak256 Algorithm is used. 
